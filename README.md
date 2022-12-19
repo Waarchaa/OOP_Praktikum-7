@@ -16,7 +16,7 @@
 ![UML DEPENDENSI](https://user-images.githubusercontent.com/116379613/208445003-b0331627-1b33-4dfe-b4ab-435a8e95bc91.png)
 
 ## OUTPUT DIPENDENSI
-
+![OUTPUT DEPENDENSI](https://user-images.githubusercontent.com/116379613/208445420-9f32d227-e37b-4a91-9102-232a851908e1.png)
 
 ## UML KOMPOSISI
 

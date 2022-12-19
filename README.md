@@ -12,3 +12,13 @@
 ## OUTPUT ASOSIASI
 ![OUTPUT ASOSIASI](https://user-images.githubusercontent.com/116379613/208444653-eab4b478-2195-4b83-b1b1-6a5061ac3c28.png)
 
+## UML DIPENDENSI
+![UML DEPENDENSI](https://user-images.githubusercontent.com/116379613/208445003-b0331627-1b33-4dfe-b4ab-435a8e95bc91.png)
+
+## OUTPUT DIPENDENSI
+
+
+## UML KOMPOSISI
+
+
+## OUTPUT KOMPOSISI

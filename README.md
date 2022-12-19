@@ -22,4 +22,4 @@
 ![UML KOMPOSISI](https://user-images.githubusercontent.com/116379613/208445712-5804f941-388f-46e9-be60-3e9e263e458e.png)
 
 ## OUTPUT KOMPOSISI
-
+![OUTPUT KOMPOSISI](https://user-images.githubusercontent.com/116379613/208445893-1c8d8c80-ce4f-4112-b25e-4d50e401999f.png)

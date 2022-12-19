@@ -9,3 +9,6 @@
 ## UML ASOSIASI
 ![UML ASOSIASI](https://user-images.githubusercontent.com/116379613/208444382-cebaf7c7-e6e0-4661-9344-9b1132157681.png)
 
+## OUTPUT ASOSIASI
+![OUTPUT ASOSIASI](https://user-images.githubusercontent.com/116379613/208444653-eab4b478-2195-4b83-b1b1-6a5061ac3c28.png)
+
